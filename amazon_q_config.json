@@ -1,0 +1,11 @@
+{
+    "region": "us-east-1",
+    "connection_timeout": 30,
+    "retry_attempts": 3,
+    "log_level": "INFO",
+    "features": {
+        "code_suggestions": true,
+        "documentation_search": true,
+        "security_scanning": true
+    }
+}
